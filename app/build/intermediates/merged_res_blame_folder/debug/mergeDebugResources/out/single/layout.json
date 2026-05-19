@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "demos.android.layout.demo.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "demos.android.layout.demo.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "demos.android.layout.demo.app-mergeDebugResources-30:/layout/layout_header.xml",
+        "source": "demos.android.layout.demo.app-main-33:/layout/layout_header.xml"
+    },
+    {
+        "merged": "demos.android.layout.demo.app-mergeDebugResources-30:/layout/layout_content.xml",
+        "source": "demos.android.layout.demo.app-main-33:/layout/layout_content.xml"
+    }
+]

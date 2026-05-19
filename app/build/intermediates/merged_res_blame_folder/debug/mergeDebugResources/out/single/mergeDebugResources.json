@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "demos.android.layout.demo.app-debug-31:/layout_layout_content.xml.flat",
+        "source": "demos.android.layout.demo.app-main-33:/layout/layout_content.xml"
+    },
+    {
+        "merged": "demos.android.layout.demo.app-debug-31:/layout_layout_header.xml.flat",
+        "source": "demos.android.layout.demo.app-main-33:/layout/layout_header.xml"
+    },
+    {
+        "merged": "demos.android.layout.demo.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "demos.android.layout.demo.app-main-33:/layout/activity_main.xml"
+    }
+]
